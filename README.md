@@ -1,18 +1,17 @@
-# Portfolio de Juan Pérez
+# Portfolio de Juan Perez
 
 ---
 
 **¡Bienvenido a mi portfolio de proyectos!**  
-Aquí encontrarás una selección de mis trabajos más destacados en **desarrollo web** y **análisis de datos**.
+Aquí encontrarás una selección de mis trabajos más destacados en **desarrollo backend** y **análisis de datos**.
 
 ## Sobre mí
 
-Soy **Juan Pérez**, un apasionado de la tecnología con 5 años de experiencia en desarrollo web y análisis de datos. Me encanta resolver problemas complejos y crear soluciones innovadoras.
+Soy **Juan Perez**, un apasionado de la tecnología con 5 años de experiencia en desarrollo web y análisis de datos. Me encanta resolver problemas complejos y crear soluciones innovadoras.
 
-- **Correo electrónico:** juan.perez@example.com
-- **LinkedIn:** [Juan Pérez](https://www.linkedin.com/in/juanperez)
-- **Sitio web personal:** [juanperez.com](https://www.juanperez.com)
-
+- **Correo electrónico:** miguel.blaya@gmail.com
+- **LinkedIn:** www.linkedin.com/in/miguelblaya
+  
 ## Proyectos Destacados
 
 ### 1. Sitio Web de Comercio Electrónico
@@ -43,28 +42,14 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 **Código fuente:**  
 [Repositorio en GitHub](https://github.com/juanperez/proyecto2)
 
-### 3. Aplicación de Gestión de Tareas
-
-**Descripción:**  
-Desarrollé una aplicación de gestión de tareas para ayudar a los usuarios a organizar su trabajo diario. La aplicación permite crear, editar y eliminar tareas, así como establecer recordatorios.
-
-**Tecnologías usadas:**  
-JavaScript, Vue.js, Firebase
-
-**Enlace al proyecto:**  
-[Ver proyecto](https://www.enlacealproyecto3.com)
-
-**Código fuente:**  
-[Repositorio en GitHub](https://github.com/juanperez/proyecto3)
-
 ## Habilidades Técnicas
 
 - **Lenguajes de programación:**  
-  Python, JavaScript, Java
+  Python, R, Rust
 - **Frameworks y librerías:**  
   React, Vue.js, Django
 - **Bases de datos:**  
-  MySQL, PostgreSQL, MongoDB
+  SQL Server, PostgreSQL, MongoDB
 - **Herramientas de desarrollo:**  
   Git, Docker, Jenkins
 

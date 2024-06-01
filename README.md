@@ -55,7 +55,7 @@ Python, Pandas, Matplotlib, Jupyter Notebook
   Git, Docker, Bar Tender
 - **Herramientas de gestión y visualización de datos**
   Power Bi, Bar Tender
-
+  
 ## Experiencia Profesional
 
 ### Desarrollador Web

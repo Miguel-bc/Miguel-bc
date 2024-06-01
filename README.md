@@ -53,7 +53,7 @@ Python, Pandas, Matplotlib, Jupyter Notebook
   SQL Server, PostgreSQL, MongoDB
 - **Herramientas de desarrollo:**  
   Git, Docker, Bar Tender
-  **Herrammientas de gestión y visualización de datos**
+- **Herramientas de gestión y visualización de datos**
   Power Bi, Bar Tender
 
 ## Experiencia Profesional

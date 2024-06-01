@@ -1,4 +1,16 @@
-# Portfolio de Juan Perez
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+# Portfolio de Miguel Blaya
 
 ---
 
@@ -7,7 +19,7 @@ Aquí encontrarás una selección de mis trabajos más destacados en **desarroll
 
 ## Sobre mí
 
-Soy **Juan Perez**, un apasionado de la tecnología con 5 años de experiencia en desarrollo web y análisis de datos. Me encanta resolver problemas complejos y crear soluciones innovadoras.
+Soy **Miguel Blaya**, un apasionado de mi trabajo con más de 25 años de experiencia en el área de operaciones empresariales. Tengo conocimientos en desarrollo de software y análisis de datos, y soy una persona autodidacta en continuo proceso de formación, siempre buscando enfrentar y resolver desafíos complejos.
 
 - **Correo electrónico:** miguel.blaya@gmail.com
 - **LinkedIn:** www.linkedin.com/in/miguelblaya
@@ -45,13 +57,15 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 ## Habilidades Técnicas
 
 - **Lenguajes de programación:**  
-  Python, R, Rust
+  Python, R, Dax
 - **Frameworks y librerías:**  
-  React, Vue.js, Django
+  Shiny, Django
 - **Bases de datos:**  
   SQL Server, PostgreSQL, MongoDB
 - **Herramientas de desarrollo:**  
-  Git, Docker, Jenkins
+  Git, Docker, Bar Tender
+  **Herrammientas de gestión y visualización de datos**
+  Power Bi, Bar Tender
 
 ## Experiencia Profesional
 
@@ -60,7 +74,7 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 Tech Solutions
 
 **Duración:**  
-Enero 2020 - Presente
+Enero 1995 - Presente
 
 **Descripción:**  
 Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías modernas. Colaboración con equipos multifuncionales para implementar nuevas características y mejorar el rendimiento.
@@ -77,19 +91,19 @@ Análisis de grandes conjuntos de datos para extraer insights valiosos. Creació
 
 ## Educación
 
-**Licenciatura en Ingeniería Informática**  
+**Grado en Administración y Dirección de Empresas**  
 **Institución:**  
-Universidad de la Tecnología
+Universidad Nacional de Educación a distancia
 
 **Duración:**  
-Septiembre 2013 - Junio 2017
+Septiembre 2014 - Junio 2018
 
 **Descripción:**  
-Formación integral en ingeniería informática con un enfoque en desarrollo de software y análisis de datos.
+Formación integral en administración de empresas, complementada con habilidades en desarrollo de software y análisis de datos.
 
 ## Contacto
 
-Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo a **juan.perez@example.com** o conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/juanperez).
+Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo a **miguel.blaya@gmail.com** o conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/miguelblaya).
 
 ---
 

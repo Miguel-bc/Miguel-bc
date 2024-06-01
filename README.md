@@ -109,3 +109,5 @@ Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo a **miguel
 
 **¡Gracias por visitar mi portfolio!**
 
+</body>
+</html>

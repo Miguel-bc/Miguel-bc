@@ -54,7 +54,7 @@ Realicé
 - **Herramientas de desarrollo:**  
   Git, Docker, Bar Tender
 - **Herramientas de gestión y visualización de datos:**  
-  Poser Bi, Bar Tender
+  Power Bi, Bar Tender
 
   
 ## Experiencia Profesional

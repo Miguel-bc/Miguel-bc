@@ -15,13 +15,13 @@ Soy **Miguel Blaya**, un apasionado de mi trabajo con más de 25 años de experi
   
 ## Proyectos Destacados
 
-### 1. Sitio Web de Comercio Electrónico
+### 1. 
 
 **Descripción:**  
-Desarrollé una plataforma de comercio electrónico para una tienda en línea. El sitio permite a los usuarios navegar productos, agregar artículos al carrito y realizar compras de manera segura.
+Desarrollé .
 
 **Tecnologías usadas:**  
-HTML, CSS, JavaScript, React, Node.js
+
 
 **Enlace al proyecto:**  
 [Ver proyecto](https://www.enlacealproyecto1.com)
@@ -29,13 +29,13 @@ HTML, CSS, JavaScript, React, Node.js
 **Código fuente:**  
 [Repositorio en GitHub](https://github.com/juanperez/proyecto1)
 
-### 2. Análisis de Datos de Ventas
+### 2.
 
 **Descripción:**  
-Realicé un análisis exhaustivo de los datos de ventas de una empresa para identificar tendencias y oportunidades de crecimiento. Utilicé técnicas de visualización de datos para presentar los hallazgos de manera clara.
+Realicé 
 
 **Tecnologías usadas:**  
-Python, Pandas, Matplotlib, Jupyter Notebook
+
 
 **Enlace al proyecto:**  
 [Ver proyecto](https://www.enlacealproyecto2.com)
@@ -46,7 +46,7 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 ## Habilidades Técnicas
 
 - **Lenguajes de programación:**  
-  Python, R, Dax
+  Python, R, JavaScript, Dax
 - **Frameworks y librerías:**  
   Shiny, Django
 - **Bases de datos:**  
@@ -60,24 +60,23 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 
 ### Desarrollador Web
 **Empresa:**  
-Tech Solutions
+
 
 **Duración:**  
-Enero 1995 - Presente
+Diciembre 1995 - Presente
 
 **Descripción:**  
-Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías modernas. Colaboración con equipos multifuncionales para implementar nuevas características y mejorar el rendimiento.
+Desarrollo .
 
-### Analista de Datos
+### 
 **Empresa:**  
-Data Insights
+
 
 **Duración:**  
 Junio 2017 - Diciembre 2019
 
 **Descripción:**  
-Análisis de grandes conjuntos de datos para extraer insights valiosos. Creación de dashboards interactivos para visualizar datos y apoyar la toma de decisiones.
-
+Análisis 
 ## Educación
 
 **Grado en Administración y Dirección de Empresas**  

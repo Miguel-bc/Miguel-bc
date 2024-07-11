@@ -53,8 +53,9 @@ Realicé
   SQL Server, PostgreSQL, MongoDB
 - **Herramientas de desarrollo:**  
   Git, Docker, Bar Tender
-- **Herramientas de gestión y visualización de datos:**
-  Power Bi, Bar Tender
+- **Herramientas de gestión y visualización de datos:**  
+  Poser Bi, Bar Tender
+
   
 ## Experiencia Profesional
 

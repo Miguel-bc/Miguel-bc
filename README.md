@@ -59,15 +59,15 @@ texto
   
 ## Experiencia Profesional
 
-### Desarrollador Web
+### Responsable en Departamento Operaciones
 **Empresa:**  
-
+Verdimed, S.A.U
 
 **Duración:**  
 Diciembre 1995 - Presente
 
 **Descripción:**  
-Desarrollo .
+texto
 
 ### 
 **Empresa:**  

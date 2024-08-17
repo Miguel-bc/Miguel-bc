@@ -4,7 +4,7 @@
 ---
 
 **¡Bienvenido a mi portfolio de proyectos!**  
-Aquí encontrarás una selección de mis trabajos más destacados en **desarrollo backend** y **análisis de datos**.
+Aquí encontrarás una selección de mis trabajos más destacados en **desarrollo software** y **análisis de datos**.
 
 ## Sobre mí
 

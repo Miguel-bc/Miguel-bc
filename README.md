@@ -18,10 +18,10 @@ Soy **Miguel Blaya**, un apasionado de mi trabajo con más de 25 años de experi
 ### 1. 
 
 **Descripción:**  
-Desarrollé .
+texto
 
 **Tecnologías usadas:**  
-
+texto
 
 **Enlace al proyecto:**  
 [Ver proyecto](https://www.enlacealproyecto1.com)
@@ -32,10 +32,10 @@ Desarrollé .
 ### 2.
 
 **Descripción:**  
-Realicé 
+texto 
 
 **Tecnologías usadas:**  
-
+texto
 
 **Enlace al proyecto:**  
 [Ver proyecto](https://www.enlacealproyecto2.com)
@@ -46,7 +46,7 @@ Realicé
 ## Habilidades Técnicas
 
 - **Lenguajes de programación:**  
-  Python, R, JavaScript, Dax
+  Python, R, JavaScript, HTML, CSS, Dax
 - **Frameworks y librerías:**  
   Shiny, Django
 - **Bases de datos:**  
@@ -71,13 +71,14 @@ Desarrollo .
 
 ### 
 **Empresa:**  
-
+texto
 
 **Duración:**  
-Junio 2017 - Diciembre 2019
+Diciembre 1995 - Actual
 
 **Descripción:**  
-Análisis 
+texto 
+
 ## Educación
 
 **Grado en Administración y Dirección de Empresas**  

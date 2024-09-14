@@ -69,16 +69,6 @@ Diciembre 1995 - Presente
 **Descripción:**  
 texto
 
-### 
-**Empresa:**  
-texto
-
-**Duración:**  
-Diciembre 1995 - Actual
-
-**Descripción:**  
-texto 
-
 ## Educación
 
 **Grado en Administración y Dirección de Empresas**  

@@ -60,6 +60,7 @@ texto
 ## Experiencia Profesional
 
 ### Responsable en Departamento Operaciones
+
 **Empresa:**  
 Verdimed, S.A.U
 
@@ -72,6 +73,7 @@ texto
 ## Educación
 
 **Grado en Administración y Dirección de Empresas**  
+
 **Institución:**  
 Universidad Nacional de Educación a distancia
 

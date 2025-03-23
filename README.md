@@ -13,40 +13,10 @@ Soy **Miguel Blaya**, un apasionado de mi trabajo con más de 25 años de experi
 - **Correo electrónico:** miguel.blaya@gmail.com
 - **LinkedIn:** www.linkedin.com/in/miguelblaya
   
-## Proyectos Destacados
-
-### 1. 
-
-**Descripción:**  
-texto
-
-**Tecnologías usadas:**  
-texto
-
-**Enlace al proyecto:**  
-[Ver proyecto](https://www.enlacealproyecto1.com)
-
-**Código fuente:**  
-[Repositorio en GitHub](https://github.com/juanperez/proyecto1)
-
-### 2.
-
-**Descripción:**  
-texto 
-
-**Tecnologías usadas:**  
-texto
-
-**Enlace al proyecto:**  
-[Ver proyecto](https://www.enlacealproyecto2.com)
-
-**Código fuente:**  
-[Repositorio en GitHub](https://github.com/juanperez/proyecto2)
-
 ## Habilidades Técnicas
 
 - **Lenguajes de programación:**  
-  Python, R, JavaScript, HTML, CSS, Dax
+  Arduino, Python, R, JavaScript, HTML, CSS, Dax
 - **Frameworks y librerías:**  
   Shiny, Django
 - **Bases de datos:**  
